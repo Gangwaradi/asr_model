@@ -122,7 +122,7 @@ megatron-lm==2.2.0
 multidict==5.2.0
 nemo-toolkit==1.4.0
 omegaconf==2.1.1
-onnx==1.1.1
+onnx==1.10.1
 opencc==1.1.2
 pangu==4.0.6.1
 parameterized==0.8.1
