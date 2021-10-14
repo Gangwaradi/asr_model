@@ -1,4 +1,4 @@
-PyAudio‑0.2.11‑cp37‑cp37m‑win_amd64.whl
+--global-option="build_ext" --global-option="-I/usr/local/include" --global-option="-L/usr/local/lib" pyaudio
 nltk
 altair==4.1.0
 argon2-cffi==21.1.0
