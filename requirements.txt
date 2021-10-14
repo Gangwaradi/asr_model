@@ -483,8 +483,6 @@ mistune==0.8.4
 nbclient==0.5.4
 pipwin==0.5.1
 prometheus-client==0.11.0
-protobuf==3.18.1
-pyarrow==5.0.0
 PyAudio @ file:///C:/Users/gangw/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 pycparser==2.20
 pydeck==0.7.0
