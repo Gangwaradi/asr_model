@@ -1,6 +1,6 @@
 --global-option="build_ext" --global-option="-I/usr/local/include" --global-option="-L/usr/local/lib" pyaudio
 nltk
-streamlit
+streamlit==1.0.0
 
 GitPython==3.1.20
 PyYAML==6.0
