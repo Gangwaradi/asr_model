@@ -1,3 +1,4 @@
+PyAudio
 nltk
 altair==4.1.0
 argon2-cffi==21.1.0
