@@ -94,4 +94,3 @@ wget==3.2
 wordninja==2.0.0
 yarg==0.1.9
 yarl==1.7.0
-yaspin==2.1.0
