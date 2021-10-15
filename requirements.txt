@@ -1,8 +1,8 @@
 --global-option="build_ext" --global-option="-I/usr/local/include" --global-option="-L/usr/local/lib" pyaudio
 nltk
 streamlit==1.0.0
-torch==1.8.1+cpu 
-torchvision==0.9.1+cpu
+torch==1.8.1
+torchvision==0.9.1
 
 PyYAML==6.0
 aiohttp==3.7.4.post0
