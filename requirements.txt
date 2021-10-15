@@ -1,8 +1,8 @@
 --global-option="build_ext" --global-option="-I/usr/local/include" --global-option="-L/usr/local/lib" pyaudio
 nltk
 streamlit==1.0.0
--f https://download.pytorch.org/whl/torch_stab0.10.1+cpule.html
-torch==1.9.1+cpu
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.6.0+cpu
 torchvision==0.7.0+cpu
 
 PyYAML==6.0
